@@ -33,12 +33,13 @@ export default function Main() {
             </div>
         </div>
          <div className="flex items-center flex-col h-full w-full   overflow-hidden justify-center border-violet-500">
-          <img  src="https://github.com/brxnxpxdrx/portfolio-2025/blob/main/public/bruno.jpg" alt="" className="rounded-full w-50 h-50 object-cover flex " />
+          <img  src="https://raw.githubusercontent.com/brxnxpxdrx/portfolio-2025/refs/heads/main/public/bruno.jpg" alt="" className="rounded-full w-50 h-50 object-cover flex " />
           
         </div>
     </div>
   )
 }
+
 
 
 
