@@ -8,7 +8,7 @@ function Destaque() {
         </h1>
          <div className='flex justify-between w-full container' >
         <div className='card w-1/3' >
-            <img src="../../public/1.png" alt="" />
+            <img src="https://raw.githubusercontent.com/brxnxpxdrx/portfolio-2025/refs/heads/main/public/1.png" alt="" />
             <h2>backend Game Yugioh</h2>
             <h3>Node.js | Mongodb| Express</h3>
             <div className='btn'>
@@ -17,7 +17,7 @@ function Destaque() {
             </div>
         </div>
         <div className='card w-1/3'>
-             <img src="../../public/carta-maior.png" alt="" />
+             <img src="https://raw.githubusercontent.com/brxnxpxdrx/portfolio-2025/refs/heads/main/public/carta-maior.png" alt="" />
             <h2>Carta Maior</h2>
             <h3>React.js </h3>
             <div className='btn'>
@@ -38,5 +38,6 @@ function Destaque() {
     </div>
   )
 }
+
 
 export default Destaque
